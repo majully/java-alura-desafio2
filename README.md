@@ -23,3 +23,5 @@ Aplicação cadastra músicas e podcasts preferidos, com classes utilizando os c
 Exemplo de mensagem exiba para classificação superio e inferior a 9.
 
 <p></p>
+
+![java-desafio-alura2](https://github.com/user-attachments/assets/377e1a4c-3c37-4600-aeda-a892fc078a37)
